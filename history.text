@@ -1,0 +1,36 @@
+    1  ls
+    2  more README-cloudshell.txt 
+    3  echo hello world
+    4  echo "hello world"
+    5  echo "hello world" > firstexample.py
+    6  ls
+    7  more firstexample.py
+    8  pwd
+    9  pwd >> firstexample.py
+   10  more firstexample.py
+   11  ls >> firstexample.py
+   12  more firstexample.py
+   13  cd '/home/clubpennn' && env '/usr/bin/python3' '/google/devshell/editor/theia/plugins/vscode-python/extension/pythonFiles/lib/python/debugpy/launcher' '34333' '--' '/home/clubpennn/firstexample.py'
+   14  more README-cloudshell.txt 
+   15  more firstexample.py
+   16  python3 firstexample.py 
+   17  phython3 firstexample.py 
+   18  python3 firstexample.py
+   19  python3
+   20  cd '/home/clubpennn' && env '/usr/bin/python3' '/google/devshell/editor/theia/plugins/vscode-python/extension/pythonFiles/lib/python/debugpy/launcher' '42451' '--' '/home/clubpennn/firstexample.py'
+   21  cd '/home/clubpennn' && env '/usr/bin/python3' '/google/devshell/editor/theia/plugins/vscode-python/extension/pythonFiles/lib/python/debugpy/launcher' '44277' '--' '/home/clubpennn/firstexample.py'
+   22  python3 
+   23  python3
+   24  python2
+   25  python1
+   26  cd '/home/clubpennn' && env '/usr/bin/python3' '/google/devshell/editor/theia/plugins/vscode-python/extension/pythonFiles/lib/python/debugpy/launcher' '38791' '--' '/home/clubpennn/firstexample.py'
+   27  java3
+   28  python3
+   29  echo "Hello World"
+   30  echo "# pythonorgttutorial" >> README.md #echo is a print statement is bash 
+   31  ls #lists contents of working directory 
+   32  mkdir pythonorgtutorial #makes new directory
+   33  mv README.md pythonorgtutorial/ #move object- README 
+   34  cd pythonorgtutorial  #changes directory 
+   35  history 
+   36  history > history.text  #redirects to history text 
